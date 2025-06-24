@@ -1,3 +1,4 @@
+![logo](https://github.com/shuvoredsky/shuvoredsky/blob/main/github%20cover.jpg)
 <h1 align="center">Hi 👋, I'm Shuvo Chakrabrati</h1>
 <h3 align="center">A passionate frontend developer from Bangladesh</h3>
 
